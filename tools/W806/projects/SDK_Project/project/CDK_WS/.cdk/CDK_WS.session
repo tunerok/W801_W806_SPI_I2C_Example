@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="C:\Users\ashirov\Desktop\prjs\china\wm-sdk-w806-main\tools\W806\projects\SDK_Project\project\CDK_WS\CDK_WS.cdkws">
+  <int Value="0" Name="m_selectedTab"/>
+  <wxString Value="C:\Users\ashirov\Desktop\prjs\china\wm-sdk-w806-main\tools\W806\projects\SDK_Project\project\CDK_WS\CDK_WS.cdkws" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="C:\Users\ashirov\Desktop\prjs\china\wm-sdk-w806-main\app\src\main.c" Name="FileName"/>
+      <wxString Value="W806_SDK" Name="ProjectName"/>
+      <int Value="21" Name="FirstVisibleLine"/>
+      <int Value="41" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\ashirov\Desktop\prjs\china\wm-sdk-w806-main\include\driver\wm_hal.h" Name="FileName"/>
+      <wxString Value="W806_SDK" Name="ProjectName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="1" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\ashirov\Desktop\prjs\china\wm-sdk-w806-main\include\ST7789\st7789.c" Name="FileName"/>
+      <wxString Value="W806_SDK" Name="ProjectName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="23" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\ashirov\Desktop\prjs\china\wm-sdk-w806-main\include\driver\wm_spi.h" Name="FileName"/>
+      <wxString Value="W806_SDK" Name="ProjectName"/>
+      <int Value="163" Name="FirstVisibleLine"/>
+      <int Value="173" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks">
+        <wxString Value="173:3"/>
+      </wxArrayString>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>

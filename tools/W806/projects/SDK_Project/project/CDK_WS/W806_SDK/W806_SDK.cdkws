@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDK_Workspace Name="W806_SDK" Database="" DoubleClick="Yes">
+  <DefaultPackPath>$(CDKPath)/CSKY/PACK</DefaultPackPath>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CDK_Workspace>
